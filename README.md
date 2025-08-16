@@ -2,6 +2,7 @@
 
 
 https://github.com/user-attachments/assets/fbc58834-2c97-4afc-9083-48d6106e2f96
+
 Quote App 
 
 Quote App is a modern, feature-rich Android application built with Kotlin and Jetpack Compose that brings daily inspiration directly to your fingertips. Designed with clean architecture principles and following Material Design 3 guidelines, this app seamlessly combines online quote discovery with personalized quote management, creating a comprehensive platform for motivation and wisdom. 
